@@ -1,0 +1,13 @@
+C:\Users\Modrzjwzki\source\repos\DiscoLedCracker\DiscoLedCracker\obj\Debug\MainWindow.g.cs
+C:\Users\Modrzjwzki\source\repos\DiscoLedCracker\DiscoLedCracker\obj\Debug\App.g.cs
+C:\Users\Modrzjwzki\source\repos\DiscoLedCracker\DiscoLedCracker\obj\Debug\DiscoLedCracker_MarkupCompile.cache
+C:\Users\Modrzjwzki\source\repos\DiscoLedCracker\DiscoLedCracker\obj\Debug\DiscoLedCracker_MarkupCompile.lref
+C:\Users\Modrzjwzki\source\repos\DiscoLedCracker\DiscoLedCracker\bin\Debug\DiscoLedCracker.exe.config
+C:\Users\Modrzjwzki\source\repos\DiscoLedCracker\DiscoLedCracker\bin\Debug\DiscoLedCracker.exe
+C:\Users\Modrzjwzki\source\repos\DiscoLedCracker\DiscoLedCracker\bin\Debug\DiscoLedCracker.pdb
+C:\Users\Modrzjwzki\source\repos\DiscoLedCracker\DiscoLedCracker\obj\Debug\MainWindow.baml
+C:\Users\Modrzjwzki\source\repos\DiscoLedCracker\DiscoLedCracker\obj\Debug\DiscoLedCracker.g.resources
+C:\Users\Modrzjwzki\source\repos\DiscoLedCracker\DiscoLedCracker\obj\Debug\DiscoLedCracker.Properties.Resources.resources
+C:\Users\Modrzjwzki\source\repos\DiscoLedCracker\DiscoLedCracker\obj\Debug\DiscoLedCracker.csproj.GenerateResource.cache
+C:\Users\Modrzjwzki\source\repos\DiscoLedCracker\DiscoLedCracker\obj\Debug\DiscoLedCracker.exe
+C:\Users\Modrzjwzki\source\repos\DiscoLedCracker\DiscoLedCracker\obj\Debug\DiscoLedCracker.pdb
